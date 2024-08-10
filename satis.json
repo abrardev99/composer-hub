@@ -1,0 +1,8 @@
+{
+    "name": "archtechx/satis.archte.ch",
+    "homepage": "https://satis.archte.ch",
+    "repositories": [
+
+    ],
+    "require-all": true
+}
